@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca5d3d5336e8a65428e9b6e4caf777e4, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  MinSpeed: 100
+  MaxSpeed: 500
+  SpeedDelta: 50
+  MinSize: 100
+  MaxSize: 300
+  GameTime: 60
+  IncreaseSpeedTimeStep: 5
+  SpawnDeltaMin: 0.1
+  SpawnDeltaMax: 1
+  MinPoints: 1
+  MaxPoints: 5
